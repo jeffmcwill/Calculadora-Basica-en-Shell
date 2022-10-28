@@ -6,4 +6,8 @@ buscar el lugar donde esta el script y ejecutarlo, dandole los permisos correspo
 la calculadora esta programada con diferentes funciones, desde suma,resta,multiplicacion,division,numeros pares e impares y porcentaje.
 esta ordenada entre funciones (que dan a las diferentes opciones) y el bucle while, que permite que el script se siga ejecutando, hasta que usted
 decida finalizarlo presionando 7.
-en caso de que quieran usarlo, lo tienen completamente a su disposicion. un gusto Jeff McWill 28/10/2022
+fue editada con los editores de texto de nano (editor de texto implementado en bash) y sublime text 3 (para correccion de errores de sintaxis).
+
+en caso de que quieran usarlo, lo tienen completamente a su disposicion. 
+
+un gusto Jeff McWill 28/10/2022
